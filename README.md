@@ -6,4 +6,4 @@ I have successfully completed the **MCP Introduction** course, which provided a 
 
 NOTE: [please read](./learn_mcp/mcp.ipynb)
 
-[certifview my credential here:icate](/learn_mcp/certificate.pdf)
+[View my credential here:icate](/learn_mcp/certificate.pdf)
